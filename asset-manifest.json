@@ -1,30 +1,31 @@
 {
   "files": {
-    "main.css": "/uab/static/css/main.1ed772b2.chunk.css",
-    "main.js": "/uab/static/js/main.bb06e54d.chunk.js",
-    "main.js.map": "/uab/static/js/main.bb06e54d.chunk.js.map",
-    "runtime-main.js": "/uab/static/js/runtime-main.c80f376e.js",
-    "runtime-main.js.map": "/uab/static/js/runtime-main.c80f376e.js.map",
+    "main.css": "/uab/static/css/main.6ac6e778.chunk.css",
+    "main.js": "/uab/static/js/main.9d20c9cb.chunk.js",
+    "main.js.map": "/uab/static/js/main.9d20c9cb.chunk.js.map",
+    "runtime-main.js": "/uab/static/js/runtime-main.5799f728.js",
+    "runtime-main.js.map": "/uab/static/js/runtime-main.5799f728.js.map",
     "static/css/2.a7922c19.chunk.css": "/uab/static/css/2.a7922c19.chunk.css",
-    "static/js/2.bf430a5c.chunk.js": "/uab/static/js/2.bf430a5c.chunk.js",
-    "static/js/2.bf430a5c.chunk.js.map": "/uab/static/js/2.bf430a5c.chunk.js.map",
-    "static/js/3.8435a210.chunk.js": "/uab/static/js/3.8435a210.chunk.js",
-    "static/js/3.8435a210.chunk.js.map": "/uab/static/js/3.8435a210.chunk.js.map",
+    "static/js/2.04b43804.chunk.js": "/uab/static/js/2.04b43804.chunk.js",
+    "static/js/2.04b43804.chunk.js.map": "/uab/static/js/2.04b43804.chunk.js.map",
+    "static/js/3.4d7df7a8.chunk.js": "/uab/static/js/3.4d7df7a8.chunk.js",
+    "static/js/3.4d7df7a8.chunk.js.map": "/uab/static/js/3.4d7df7a8.chunk.js.map",
     "index.html": "/uab/index.html",
     "static/css/2.a7922c19.chunk.css.map": "/uab/static/css/2.a7922c19.chunk.css.map",
-    "static/css/main.1ed772b2.chunk.css.map": "/uab/static/css/main.1ed772b2.chunk.css.map",
-    "static/js/2.bf430a5c.chunk.js.LICENSE.txt": "/uab/static/js/2.bf430a5c.chunk.js.LICENSE.txt",
+    "static/css/main.6ac6e778.chunk.css.map": "/uab/static/css/main.6ac6e778.chunk.css.map",
+    "static/js/2.04b43804.chunk.js.LICENSE.txt": "/uab/static/js/2.04b43804.chunk.js.LICENSE.txt",
     "static/media/sponsors.css": "/uab/static/media/prefeitura-municipal-de-itaporanga-pb.0bea3cce.png",
+    "static/media/cover.css": "/uab/static/media/OCRAEXT_2.7ca3e83e.woff",
     "static/media/audio.74f6d09d.mp3": "/uab/static/media/audio.74f6d09d.mp3",
     "static/media/p1.71d398b9.jpeg": "/uab/static/media/p1.71d398b9.jpeg",
     "static/media/styles.css": "/uab/static/media/revicons.e8746a62.woff",
     "static/media/schedule.css": "/uab/static/media/schedule.d2151d94.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c80f376e.js",
+    "static/js/runtime-main.5799f728.js",
     "static/css/2.a7922c19.chunk.css",
-    "static/js/2.bf430a5c.chunk.js",
-    "static/css/main.1ed772b2.chunk.css",
-    "static/js/main.bb06e54d.chunk.js"
+    "static/js/2.04b43804.chunk.js",
+    "static/css/main.6ac6e778.chunk.css",
+    "static/js/main.9d20c9cb.chunk.js"
   ]
 }
