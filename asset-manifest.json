@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/uab/static/css/main.190d5f71.chunk.css",
-    "main.js": "/uab/static/js/main.f4b2dc26.chunk.js",
-    "main.js.map": "/uab/static/js/main.f4b2dc26.chunk.js.map",
-    "runtime-main.js": "/uab/static/js/runtime-main.79ae660c.js",
-    "runtime-main.js.map": "/uab/static/js/runtime-main.79ae660c.js.map",
+    "main.css": "/uab/static/css/main.b945e8f0.chunk.css",
+    "main.js": "/uab/static/js/main.67fbe1c8.chunk.js",
+    "main.js.map": "/uab/static/js/main.67fbe1c8.chunk.js.map",
+    "runtime-main.js": "/uab/static/js/runtime-main.c80f376e.js",
+    "runtime-main.js.map": "/uab/static/js/runtime-main.c80f376e.js.map",
     "static/css/2.a7922c19.chunk.css": "/uab/static/css/2.a7922c19.chunk.css",
-    "static/js/2.d9333997.chunk.js": "/uab/static/js/2.d9333997.chunk.js",
-    "static/js/2.d9333997.chunk.js.map": "/uab/static/js/2.d9333997.chunk.js.map",
-    "static/js/3.fb4d7869.chunk.js": "/uab/static/js/3.fb4d7869.chunk.js",
-    "static/js/3.fb4d7869.chunk.js.map": "/uab/static/js/3.fb4d7869.chunk.js.map",
+    "static/js/2.9f7df709.chunk.js": "/uab/static/js/2.9f7df709.chunk.js",
+    "static/js/2.9f7df709.chunk.js.map": "/uab/static/js/2.9f7df709.chunk.js.map",
+    "static/js/3.8435a210.chunk.js": "/uab/static/js/3.8435a210.chunk.js",
+    "static/js/3.8435a210.chunk.js.map": "/uab/static/js/3.8435a210.chunk.js.map",
     "index.html": "/uab/index.html",
     "static/css/2.a7922c19.chunk.css.map": "/uab/static/css/2.a7922c19.chunk.css.map",
-    "static/css/main.190d5f71.chunk.css.map": "/uab/static/css/main.190d5f71.chunk.css.map",
-    "static/js/2.d9333997.chunk.js.LICENSE.txt": "/uab/static/js/2.d9333997.chunk.js.LICENSE.txt",
-    "static/media/cover.css": "/uab/static/media/logo.211e48e3.png",
+    "static/css/main.b945e8f0.chunk.css.map": "/uab/static/css/main.b945e8f0.chunk.css.map",
+    "static/js/2.9f7df709.chunk.js.LICENSE.txt": "/uab/static/js/2.9f7df709.chunk.js.LICENSE.txt",
+    "static/media/audio.74f6d09d.mp3": "/uab/static/media/audio.74f6d09d.mp3",
+    "static/media/p1.71d398b9.jpeg": "/uab/static/media/p1.71d398b9.jpeg",
     "static/media/styles.css": "/uab/static/media/revicons.e8746a62.woff",
-    "static/media/schedule.css": "/uab/static/media/schedule.d2151d94.jpg",
-    "static/media/speaker1.8d8b683b.jpg": "/uab/static/media/speaker1.8d8b683b.jpg"
+    "static/media/schedule.css": "/uab/static/media/schedule.d2151d94.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.79ae660c.js",
+    "static/js/runtime-main.c80f376e.js",
     "static/css/2.a7922c19.chunk.css",
-    "static/js/2.d9333997.chunk.js",
-    "static/css/main.190d5f71.chunk.css",
-    "static/js/main.f4b2dc26.chunk.js"
+    "static/js/2.9f7df709.chunk.js",
+    "static/css/main.b945e8f0.chunk.css",
+    "static/js/main.67fbe1c8.chunk.js"
   ]
 }
