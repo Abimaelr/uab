@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/uab/static/css/main.02c485d1.chunk.css",
-    "main.js": "/uab/static/js/main.1a44a736.chunk.js",
-    "main.js.map": "/uab/static/js/main.1a44a736.chunk.js.map",
+    "main.js": "/uab/static/js/main.e8e08248.chunk.js",
+    "main.js.map": "/uab/static/js/main.e8e08248.chunk.js.map",
     "runtime-main.js": "/uab/static/js/runtime-main.f66b9b7f.js",
     "runtime-main.js.map": "/uab/static/js/runtime-main.f66b9b7f.js.map",
     "static/css/2.a7922c19.chunk.css": "/uab/static/css/2.a7922c19.chunk.css",
@@ -35,6 +35,6 @@
     "static/css/2.a7922c19.chunk.css",
     "static/js/2.25b37899.chunk.js",
     "static/css/main.02c485d1.chunk.css",
-    "static/js/main.1a44a736.chunk.js"
+    "static/js/main.e8e08248.chunk.js"
   ]
 }
