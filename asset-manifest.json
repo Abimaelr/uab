@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.096dfbc3.chunk.css",
-    "main.js": "/static/js/main.8086b643.chunk.js",
-    "main.js.map": "/static/js/main.8086b643.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a59e201e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a59e201e.js.map",
+    "main.js": "/static/js/main.97876844.chunk.js",
+    "main.js.map": "/static/js/main.97876844.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8a23c94a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8a23c94a.js.map",
     "static/css/2.019c4d4d.chunk.css": "/static/css/2.019c4d4d.chunk.css",
-    "static/js/2.25b37899.chunk.js": "/static/js/2.25b37899.chunk.js",
-    "static/js/2.25b37899.chunk.js.map": "/static/js/2.25b37899.chunk.js.map",
-    "static/js/3.ae0010b6.chunk.js": "/static/js/3.ae0010b6.chunk.js",
-    "static/js/3.ae0010b6.chunk.js.map": "/static/js/3.ae0010b6.chunk.js.map",
+    "static/js/2.22d638e0.chunk.js": "/static/js/2.22d638e0.chunk.js",
+    "static/js/2.22d638e0.chunk.js.map": "/static/js/2.22d638e0.chunk.js.map",
+    "static/js/3.a83c3ec4.chunk.js": "/static/js/3.a83c3ec4.chunk.js",
+    "static/js/3.a83c3ec4.chunk.js.map": "/static/js/3.a83c3ec4.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.019c4d4d.chunk.css.map": "/static/css/2.019c4d4d.chunk.css.map",
     "static/css/main.096dfbc3.chunk.css.map": "/static/css/main.096dfbc3.chunk.css.map",
-    "static/js/2.25b37899.chunk.js.LICENSE.txt": "/static/js/2.25b37899.chunk.js.LICENSE.txt",
+    "static/js/2.22d638e0.chunk.js.LICENSE.txt": "/static/js/2.22d638e0.chunk.js.LICENSE.txt",
     "static/media/sponsors.css": "/static/media/prefeitura-municipal-de-itaporanga-pb.0bea3cce.png",
     "static/media/Daniele.5544dde3.png": "/static/media/Daniele.5544dde3.png",
     "static/media/Ercules.eef23768.png": "/static/media/Ercules.eef23768.png",
@@ -31,10 +31,10 @@
     "static/media/uf.b7540efe.png": "/static/media/uf.b7540efe.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a59e201e.js",
+    "static/js/runtime-main.8a23c94a.js",
     "static/css/2.019c4d4d.chunk.css",
-    "static/js/2.25b37899.chunk.js",
+    "static/js/2.22d638e0.chunk.js",
     "static/css/main.096dfbc3.chunk.css",
-    "static/js/main.8086b643.chunk.js"
+    "static/js/main.97876844.chunk.js"
   ]
 }
