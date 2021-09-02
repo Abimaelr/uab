@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.7741b69c.chunk.css",
-    "main.js": "/static/js/main.6a5d5be6.chunk.js",
-    "main.js.map": "/static/js/main.6a5d5be6.chunk.js.map",
+    "main.css": "/static/css/main.80bf56b1.chunk.css",
+    "main.js": "/static/js/main.bf0e2e72.chunk.js",
+    "main.js.map": "/static/js/main.bf0e2e72.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8a23c94a.js",
     "runtime-main.js.map": "/static/js/runtime-main.8a23c94a.js.map",
     "static/css/2.019c4d4d.chunk.css": "/static/css/2.019c4d4d.chunk.css",
@@ -12,13 +12,14 @@
     "static/js/3.a83c3ec4.chunk.js.map": "/static/js/3.a83c3ec4.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.019c4d4d.chunk.css.map": "/static/css/2.019c4d4d.chunk.css.map",
-    "static/css/main.7741b69c.chunk.css.map": "/static/css/main.7741b69c.chunk.css.map",
+    "static/css/main.80bf56b1.chunk.css.map": "/static/css/main.80bf56b1.chunk.css.map",
     "static/js/2.0e9ade9f.chunk.js.LICENSE.txt": "/static/js/2.0e9ade9f.chunk.js.LICENSE.txt",
     "static/media/sponsors.css": "/static/media/prefeitura-municipal-de-itaporanga-pb.0bea3cce.png",
     "static/media/Daniele.5544dde3.png": "/static/media/Daniele.5544dde3.png",
     "static/media/Ercules.eef23768.png": "/static/media/Ercules.eef23768.png",
     "static/media/Fernanda.79384432.png": "/static/media/Fernanda.79384432.png",
     "static/media/Gilmar.2f1a84ea.png": "/static/media/Gilmar.2f1a84ea.png",
+    "static/media/Junior.0eed13e6.png": "/static/media/Junior.0eed13e6.png",
     "static/media/Lucidio.f765c2cf.png": "/static/media/Lucidio.f765c2cf.png",
     "static/media/footer.css": "/static/media/OCRAEXT_2.7ca3e83e.woff",
     "static/media/Priscila.850d7184.png": "/static/media/Priscila.850d7184.png",
@@ -28,13 +29,14 @@
     "static/media/styles.css": "/static/media/revicons.e8746a62.woff",
     "static/media/schedule.css": "/static/media/schedule.d2151d94.jpg",
     "static/media/sedec.3f9c268a.png": "/static/media/sedec.3f9c268a.png",
-    "static/media/uf.b7540efe.png": "/static/media/uf.b7540efe.png"
+    "static/media/uf.b7540efe.png": "/static/media/uf.b7540efe.png",
+    "static/media/veronica.6a844143.png": "/static/media/veronica.6a844143.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8a23c94a.js",
     "static/css/2.019c4d4d.chunk.css",
     "static/js/2.0e9ade9f.chunk.js",
-    "static/css/main.7741b69c.chunk.css",
-    "static/js/main.6a5d5be6.chunk.js"
+    "static/css/main.80bf56b1.chunk.css",
+    "static/js/main.bf0e2e72.chunk.js"
   ]
 }
