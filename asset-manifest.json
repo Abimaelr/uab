@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.80bf56b1.chunk.css",
-    "main.js": "/static/js/main.68b6b1c8.chunk.js",
-    "main.js.map": "/static/js/main.68b6b1c8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8a23c94a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8a23c94a.js.map",
+    "main.css": "/static/css/main.bd35d64e.chunk.css",
+    "main.js": "/static/js/main.50b8c5df.chunk.js",
+    "main.js.map": "/static/js/main.50b8c5df.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a59e201e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a59e201e.js.map",
     "static/css/2.019c4d4d.chunk.css": "/static/css/2.019c4d4d.chunk.css",
-    "static/js/2.0e9ade9f.chunk.js": "/static/js/2.0e9ade9f.chunk.js",
-    "static/js/2.0e9ade9f.chunk.js.map": "/static/js/2.0e9ade9f.chunk.js.map",
-    "static/js/3.a83c3ec4.chunk.js": "/static/js/3.a83c3ec4.chunk.js",
-    "static/js/3.a83c3ec4.chunk.js.map": "/static/js/3.a83c3ec4.chunk.js.map",
+    "static/js/2.ed1ed86a.chunk.js": "/static/js/2.ed1ed86a.chunk.js",
+    "static/js/2.ed1ed86a.chunk.js.map": "/static/js/2.ed1ed86a.chunk.js.map",
+    "static/js/3.ae0010b6.chunk.js": "/static/js/3.ae0010b6.chunk.js",
+    "static/js/3.ae0010b6.chunk.js.map": "/static/js/3.ae0010b6.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.019c4d4d.chunk.css.map": "/static/css/2.019c4d4d.chunk.css.map",
-    "static/css/main.80bf56b1.chunk.css.map": "/static/css/main.80bf56b1.chunk.css.map",
-    "static/js/2.0e9ade9f.chunk.js.LICENSE.txt": "/static/js/2.0e9ade9f.chunk.js.LICENSE.txt",
+    "static/css/main.bd35d64e.chunk.css.map": "/static/css/main.bd35d64e.chunk.css.map",
+    "static/js/2.ed1ed86a.chunk.js.LICENSE.txt": "/static/js/2.ed1ed86a.chunk.js.LICENSE.txt",
     "static/media/sponsors.css": "/static/media/prefeitura-municipal-de-itaporanga-pb.0bea3cce.png",
     "static/media/Daniel.e25dd3bb.png": "/static/media/Daniel.e25dd3bb.png",
     "static/media/Daniele.5544dde3.png": "/static/media/Daniele.5544dde3.png",
@@ -34,10 +34,10 @@
     "static/media/veronica.6a844143.png": "/static/media/veronica.6a844143.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8a23c94a.js",
+    "static/js/runtime-main.a59e201e.js",
     "static/css/2.019c4d4d.chunk.css",
-    "static/js/2.0e9ade9f.chunk.js",
-    "static/css/main.80bf56b1.chunk.css",
-    "static/js/main.68b6b1c8.chunk.js"
+    "static/js/2.ed1ed86a.chunk.js",
+    "static/css/main.bd35d64e.chunk.css",
+    "static/js/main.50b8c5df.chunk.js"
   ]
 }
