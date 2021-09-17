@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.59f64f0b.chunk.css",
-    "main.js": "/static/js/main.7efc042f.chunk.js",
-    "main.js.map": "/static/js/main.7efc042f.chunk.js.map",
+    "main.css": "/static/css/main.ea66c88b.chunk.css",
+    "main.js": "/static/js/main.b678221e.chunk.js",
+    "main.js.map": "/static/js/main.b678221e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a59e201e.js",
     "runtime-main.js.map": "/static/js/runtime-main.a59e201e.js.map",
     "static/css/2.019c4d4d.chunk.css": "/static/css/2.019c4d4d.chunk.css",
@@ -12,9 +12,9 @@
     "static/js/3.ae0010b6.chunk.js.map": "/static/js/3.ae0010b6.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.019c4d4d.chunk.css.map": "/static/css/2.019c4d4d.chunk.css.map",
-    "static/css/main.59f64f0b.chunk.css.map": "/static/css/main.59f64f0b.chunk.css.map",
+    "static/css/main.ea66c88b.chunk.css.map": "/static/css/main.ea66c88b.chunk.css.map",
     "static/js/2.4d7a2b64.chunk.js.LICENSE.txt": "/static/js/2.4d7a2b64.chunk.js.LICENSE.txt",
-    "static/media/sponsors.css": "/static/media/prefeitura-municipal-de-itaporanga-pb.0bea3cce.png",
+    "static/media/sponsors.css": "/static/media/saobento.07b251ab.svg",
     "static/media/Daniel.e25dd3bb.png": "/static/media/Daniel.e25dd3bb.png",
     "static/media/Daniele.5544dde3.png": "/static/media/Daniele.5544dde3.png",
     "static/media/Ercules.eef23768.png": "/static/media/Ercules.eef23768.png",
@@ -37,7 +37,7 @@
     "static/js/runtime-main.a59e201e.js",
     "static/css/2.019c4d4d.chunk.css",
     "static/js/2.4d7a2b64.chunk.js",
-    "static/css/main.59f64f0b.chunk.css",
-    "static/js/main.7efc042f.chunk.js"
+    "static/css/main.ea66c88b.chunk.css",
+    "static/js/main.b678221e.chunk.js"
   ]
 }
