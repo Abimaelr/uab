@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d7421f5.chunk.css",
-    "main.js": "/static/js/main.81f148d8.chunk.js",
-    "main.js.map": "/static/js/main.81f148d8.chunk.js.map",
+    "main.css": "/static/css/main.59f64f0b.chunk.css",
+    "main.js": "/static/js/main.7efc042f.chunk.js",
+    "main.js.map": "/static/js/main.7efc042f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a59e201e.js",
     "runtime-main.js.map": "/static/js/runtime-main.a59e201e.js.map",
     "static/css/2.019c4d4d.chunk.css": "/static/css/2.019c4d4d.chunk.css",
-    "static/js/2.ed1ed86a.chunk.js": "/static/js/2.ed1ed86a.chunk.js",
-    "static/js/2.ed1ed86a.chunk.js.map": "/static/js/2.ed1ed86a.chunk.js.map",
+    "static/js/2.4d7a2b64.chunk.js": "/static/js/2.4d7a2b64.chunk.js",
+    "static/js/2.4d7a2b64.chunk.js.map": "/static/js/2.4d7a2b64.chunk.js.map",
     "static/js/3.ae0010b6.chunk.js": "/static/js/3.ae0010b6.chunk.js",
     "static/js/3.ae0010b6.chunk.js.map": "/static/js/3.ae0010b6.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.019c4d4d.chunk.css.map": "/static/css/2.019c4d4d.chunk.css.map",
-    "static/css/main.1d7421f5.chunk.css.map": "/static/css/main.1d7421f5.chunk.css.map",
-    "static/js/2.ed1ed86a.chunk.js.LICENSE.txt": "/static/js/2.ed1ed86a.chunk.js.LICENSE.txt",
+    "static/css/main.59f64f0b.chunk.css.map": "/static/css/main.59f64f0b.chunk.css.map",
+    "static/js/2.4d7a2b64.chunk.js.LICENSE.txt": "/static/js/2.4d7a2b64.chunk.js.LICENSE.txt",
     "static/media/sponsors.css": "/static/media/prefeitura-municipal-de-itaporanga-pb.0bea3cce.png",
     "static/media/Daniel.e25dd3bb.png": "/static/media/Daniel.e25dd3bb.png",
     "static/media/Daniele.5544dde3.png": "/static/media/Daniele.5544dde3.png",
@@ -26,7 +26,7 @@
     "static/media/Priscila.850d7184.png": "/static/media/Priscila.850d7184.png",
     "static/media/if.7eb9fb44.png": "/static/media/if.7eb9fb44.png",
     "static/media/jp.caae7fbd.png": "/static/media/jp.caae7fbd.png",
-    "static/media/m.8e7fbfb1.png": "/static/media/m.8e7fbfb1.png",
+    "static/media/m.20c5b5f6.png": "/static/media/m.20c5b5f6.png",
     "static/media/styles.css": "/static/media/revicons.e8746a62.woff",
     "static/media/schedule.css": "/static/media/schedule.d2151d94.jpg",
     "static/media/sedec.3f9c268a.png": "/static/media/sedec.3f9c268a.png",
@@ -36,8 +36,8 @@
   "entrypoints": [
     "static/js/runtime-main.a59e201e.js",
     "static/css/2.019c4d4d.chunk.css",
-    "static/js/2.ed1ed86a.chunk.js",
-    "static/css/main.1d7421f5.chunk.css",
-    "static/js/main.81f148d8.chunk.js"
+    "static/js/2.4d7a2b64.chunk.js",
+    "static/css/main.59f64f0b.chunk.css",
+    "static/js/main.7efc042f.chunk.js"
   ]
 }
