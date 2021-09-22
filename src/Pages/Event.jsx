@@ -33,7 +33,7 @@ function Event() {
                             <h4>O papel da educação e o uso das tecnologias de maneira crítica e reflexiva na EaD</h4>
                             <h5>Profa. Dra. Daniele Dias</h5>
                         </div>
-                        <iframe width="100%" height="400px" src="https://www.youtube.com/embed/eiMnPx06cZs" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen;" />
+                        <iframe width="100%" height="400px" src="https://www.youtube.com/embed/7BXgP2qNKwk" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen;" />
                     </div>
                 </Col>
                 <Col md={4}>
