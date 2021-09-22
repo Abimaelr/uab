@@ -74,7 +74,7 @@ function Event() {
                             <h4>Gamificação no ensino e as tecnologias que auxiliam a aprendizagem de milhares de jovens</h4>
                             <h5>Prof. Ma. Priscila Dias</h5>
                         </div>
-                        {/* <iframe width="100%" height="400px" src="https://www.youtube.com/embed/skOn70zWncU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen;" /> */}
+                        <iframe width="100%" height="400px" src="https://www.youtube.com/embed/lm_lj7Ow0tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen;" />
                     </div>
                 </Col>
                 <Col md={4}>
@@ -84,7 +84,7 @@ function Event() {
 </h4>
                             <h5>Prof. Me. Júnior Fideles</h5>
                         </div>
-                        {/* <iframe width="100%" height="400px" src="https://www.youtube.com/embed/0Mu5QEHatwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> */}
+                        <iframe width="100%" height="400px" src="https://www.youtube.com/embed/0Mu5QEHatwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </Col>
                 <Col md={4}>
@@ -94,7 +94,7 @@ function Event() {
 </h4>
                             <h5>Prof. Ma. Fernanda Gomides</h5>
                         </div>
-                        {/* <iframe width="100%" height="400px"  src="https://www.youtube.com/embed/RXIQqcoyW8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> */}
+                        <iframe width="100%" height="400px"  src="https://www.youtube.com/embed/RXIQqcoyW8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </Col>
                 <Col  md={4}>
