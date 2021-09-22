@@ -105,7 +105,7 @@ function Event() {
 </h4>
                             <h5>Coordenadores de Polo</h5>
                         </div>
-                        {/* <iframe width="100%" height="400px" src="https://www.youtube.com/embed/skOn70zWncU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen;" /> */}
+                        <iframe width="100%" height="400px" src="https://www.youtube.com/embed/4DclFj-HG4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen;" />
                     </div>
                 </Col>
                 <Col  md={4}>
@@ -127,7 +127,7 @@ function Event() {
                             <h5>Apresentação Cultural e homenagem dos Polos aos 15 anos da UAB</h5>
                             <h5>Prof. Dr. Daniel Mill</h5>
                         </div>
-                        <iframe  width="80%" height="80%"  src="https://www.youtube.com/embed/skOn70zWncU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen;" />
+                        <iframe  width="80%" height="80%"  src="https://www.youtube.com/embed/oTsL6gp3ZwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen;" />
                     </div>
                 </Col>
                 {/* <Col md={12}>

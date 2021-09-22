@@ -46,9 +46,9 @@ function Body() {
                         </a>
                     </div>
                </Fade>
-       <SpecialTitle title="Abertura" subTitle="20 de Setembro" />
+       <SpecialTitle title="Encerramento" subTitle="22 de Setembro" />
        <div className="videoContent">
-        <iframe className="homeVideo" src="https://www.youtube.com/embed/NQQDM0mhe9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen;" />
+        <iframe className="homeVideo" src="https://www.youtube.com/embed/oTsL6gp3ZwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen;" />
        </div>
         <div id="features">
             <SpecialTitle title="Conteúdo" subTitle="O que você verá aqui" />
