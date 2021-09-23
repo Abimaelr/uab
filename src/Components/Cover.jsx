@@ -7,7 +7,7 @@ import config from '../assets/particlesjs-config';
 import Zoom from 'react-reveal/Zoom';
 import jp from '../assets/img/jp.png';
 
-function Cover() {
+function Cover(props) {
 
     useEffect(() => {
         window
@@ -43,7 +43,6 @@ function Cover() {
                             <h1>I SEMINÁRIO INTERPOLOS: <br /><span>15 ANOS DE UAB NA PARAÍBA</span></h1>
                             <h4>20 a 22 SET</h4>
                         </div>
-                        
                         <a href="#content">
                             <button className="Button">
                                 Saiba Mais

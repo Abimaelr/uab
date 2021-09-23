@@ -58,11 +58,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Abimaelr/uab.git"
+    "url": "git+https://github.com/Abimaelr/uabReserva.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Abimaelr/uab/issues"
+    "url": "https://github.com/Abimaelr/uabReserva/issues"
   }
 }
