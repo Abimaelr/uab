@@ -116,7 +116,7 @@ function Event() {
 </h4>
                             <h5>Assistentes e Tutores dos Polos UAB-PB</h5>
                         </div>
-                        <iframe width="100%" height="400px" src="https://www.youtube.com/embed/C2247ADX6X4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen;" />
+                        <iframe width="100%" height="400px" src="https://www.youtube.com/embed/CQmIKeUjw88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen;" />
                     </div>
                 </Col>
                 <Col  md={12}>
